@@ -1,0 +1,31 @@
+## This document explains the bases of team work relationship in a devops project.
+
+The breakdown of day-to-day responsibilities for developers, testers, DevOps engineers, and the scrum master in a typical Agile project:
+1. Developers
+•	Coding & Implementation: Write, review, and refactor code based on requirements. Work on new features, bug fixes, and enhancements.
+•	Daily Standup: Participate in daily meetings to provide updates on progress, blockers, and plans.
+•	Code Reviews: Review peers' code to ensure best practices and maintain code quality.
+•	Collaboration: Work closely with testers to understand requirements, provide clarity, and troubleshoot issues.
+•	Documentation: Document code, workflows, and any changes made to the application.
+•	Backlog Grooming: Attend sprint planning and backlog refinement meetings, breaking down stories into manageable tasks.
+2. Testers (QA Engineers)
+•	Test Case Creation: Write test cases based on user stories and acceptance criteria.
+•	Testing: Perform manual and automated testing (functional, regression, and integration tests) to verify application stability.
+•	Bug Reporting & Tracking: Identify issues and log detailed bug reports with relevant information for developers.
+•	Daily Standup: Share testing progress, raise concerns, and clarify requirements with the development team.
+•	Collaboration: Work closely with developers and DevOps engineers to ensure smooth releases and troubleshoot environment issues.
+•	Test Automation: Write and maintain automated test scripts to improve test coverage.
+3. DevOps Engineer
+•	CI/CD Pipeline Management: Set up, maintain, and monitor CI/CD pipelines to automate build, testing, and deployment processes.
+•	Environment Setup & Management: Provision and configure development, testing, and production environments.
+•	Monitoring & Alerting: Implement and monitor application performance, availability, and reliability metrics.
+•	Configuration Management: Use tools like Ansible or Chef for managing and automating infrastructure setup and software configurations.
+•	Daily Standup: Update the team on deployment statuses, pipeline issues, or infrastructure changes.
+•	Collaboration: Work closely with developers and testers to troubleshoot environment or deployment issues.
+4. Scrum Master
+•	Daily Standup Facilitation: Organize and lead daily standups, ensuring discussions are brief and to the point.
+•	Sprint Planning & Retrospectives: Facilitate sprint planning, sprint reviews, and retrospectives, ensuring the team aligns on goals and reflects on improvements.
+•	Removing Blockers: Identify and remove obstacles that prevent the team from delivering work efficiently.
+•	Progress Tracking: Monitor the team's progress and ensure they stay on track with project timelines.
+•	Stakeholder Communication: Serve as the point of contact for updates to stakeholders, ensuring they have visibility into project progress and risks.
+•	Team Coaching: Encourage Agile best practices, help maintain team morale, and foster a collaborative environment.
